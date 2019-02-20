@@ -8,3 +8,7 @@ class named_solution:
             print("\n",i,)
 
         print("\n]")
+
+    if __name__=="__main__":
+        a=['eat','tea','tan','ate','nat','bat']
+        groupAnagrams(a)
